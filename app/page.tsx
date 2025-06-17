@@ -1,3 +1,4 @@
+/*
 // app/page.tsx（首页）
 import Seo from '@/components/Seo';
 
@@ -29,3 +30,4 @@ import Script from 'next/script';
     }),
   }}
 />
+*/
