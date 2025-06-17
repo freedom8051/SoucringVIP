@@ -1,3 +1,4 @@
+/*
 // content/schema.ts
 import { defineType, defineField } from 'tinacms';
 
@@ -52,3 +53,4 @@ export const blogPost = defineType({
     }),
   ],
 });
+*/
